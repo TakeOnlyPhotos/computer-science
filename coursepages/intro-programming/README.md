@@ -24,15 +24,15 @@ This course has been developed by the CS50 team at Harvard University.
 
 ### Course Materials
 
-0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) — [Notes](https://cs50.harvard.edu/python/2022/notes/0/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/)
-1. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/) — [Notes](https://cs50.harvard.edu/python/2022/notes/1/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/)
-2. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/) — [Notes](https://cs50.harvard.edu/python/2022/notes/2/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/)
-3. [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/) — [Notes](https://cs50.harvard.edu/python/2022/notes/3/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/)
-4. [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/) — [Notes](https://cs50.harvard.edu/python/2022/notes/4/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/4/)
-5. [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/) — [Notes](https://cs50.harvard.edu/python/2022/notes/5/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/5/)
-6. [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/) — [Notes](https://cs50.harvard.edu/python/2022/notes/6/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/6/)
-7. [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/) — [Notes](https://cs50.harvard.edu/python/2022/notes/7/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/7/)
-8. [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/) — [Notes](https://cs50.harvard.edu/python/2022/notes/8/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/8/)
+0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) — [Notes](https://cs50.harvard.edu/python/2022/notes/0/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/)✅
+1. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/) — [Notes](https://cs50.harvard.edu/python/2022/notes/1/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/)✅
+2. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/) — [Notes](https://cs50.harvard.edu/python/2022/notes/2/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/)✅
+3. [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/) — [Notes](https://cs50.harvard.edu/python/2022/notes/3/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/)✅
+4. [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/) — [Notes](https://cs50.harvard.edu/python/2022/notes/4/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/4/)✅
+5. [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/) — [Notes](https://cs50.harvard.edu/python/2022/notes/5/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/5/)✅
+6. [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/) — [Notes](https://cs50.harvard.edu/python/2022/notes/6/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/6/)✅
+7. [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/) — [Notes](https://cs50.harvard.edu/python/2022/notes/7/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/7/)✅
+8. [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/) — [Notes](https://cs50.harvard.edu/python/2022/notes/8/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/8/)✅
 9. [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/) — [Notes](https://cs50.harvard.edu/python/2022/notes/9/) — [Final Project](https://cs50.harvard.edu/python/2022/project/)
 
 ## Python for Everybody ✅
@@ -56,23 +56,23 @@ This course has been created by Professor Charles Severance from the University 
 
 ### Course Materials
 
-1. [Installing Python](https://www.py4e.com/lessons/install)
-2. [Why Program?](https://www.py4e.com/lessons/intro)
-3. [Variables, expressions and statements](https://www.py4e.com/lessons/memory)
-4. [Conditional Execution](https://www.py4e.com/lessons/logic)
-5. [Functions](https://www.py4e.com/lessons/functions)
-6. [Loops and Iterations](https://www.py4e.com/lessons/loops)
-7. [Strings](https://www.py4e.com/lessons/strings)
-8. [Files](https://www.py4e.com/lessons/files)
-9. [Lists](https://www.py4e.com/lessons/lists)
-10. [Dictionaries](https://www.py4e.com/lessons/dictionary)
-11. [Tuples](https://www.py4e.com/lessons/tuples)
-12. [Regular Expressions](https://www.py4e.com/lessons/regex)
-13. [Network Programming](https://www.py4e.com/lessons/network) (Optional)
-14. [Using Web Services](https://www.py4e.com/lessons/servces) (Optional)
-15. [Object-Oriented Programming](https://www.py4e.com/lessons/Objects) (Optional)
-16. [Databases](https://www.py4e.com/lessons/database) (Optional)
-17. [Data Visualization](https://www.py4e.com/lessons/dataviz) (Optional)
+1. [Installing Python](https://www.py4e.com/lessons/install)✅
+2. [Why Program?](https://www.py4e.com/lessons/intro)✅
+3. [Variables, expressions and statements](https://www.py4e.com/lessons/memory)✅
+4. [Conditional Execution](https://www.py4e.com/lessons/logic)✅
+5. [Functions](https://www.py4e.com/lessons/functions)✅
+6. [Loops and Iterations](https://www.py4e.com/lessons/loops)✅
+7. [Strings](https://www.py4e.com/lessons/strings)✅
+8. [Files](https://www.py4e.com/lessons/files)✅
+9. [Lists](https://www.py4e.com/lessons/lists)✅
+10. [Dictionaries](https://www.py4e.com/lessons/dictionary)✅
+11. [Tuples](https://www.py4e.com/lessons/tuples)✅
+12. [Regular Expressions](https://www.py4e.com/lessons/regex)✅
+13. [Network Programming](https://www.py4e.com/lessons/network) (Optional)✅
+14. [Using Web Services](https://www.py4e.com/lessons/servces) (Optional)✅
+15. [Object-Oriented Programming](https://www.py4e.com/lessons/Objects) (Optional)✅
+16. [Databases](https://www.py4e.com/lessons/database) (Optional)✅
+17. [Data Visualization](https://www.py4e.com/lessons/dataviz) (Optional)✅
 
 ### Fixes
 
